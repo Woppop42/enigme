@@ -1,0 +1,15 @@
+/Users/gabriel/Projects/projet_enigme/projet_enigme/bin/Debug/net7.0/projet_enigme
+/Users/gabriel/Projects/projet_enigme/projet_enigme/bin/Debug/net7.0/projet_enigme.deps.json
+/Users/gabriel/Projects/projet_enigme/projet_enigme/bin/Debug/net7.0/projet_enigme.runtimeconfig.json
+/Users/gabriel/Projects/projet_enigme/projet_enigme/bin/Debug/net7.0/projet_enigme.dll
+/Users/gabriel/Projects/projet_enigme/projet_enigme/bin/Debug/net7.0/projet_enigme.pdb
+/Users/gabriel/Projects/projet_enigme/projet_enigme/obj/Debug/net7.0/projet_enigme.csproj.AssemblyReference.cache
+/Users/gabriel/Projects/projet_enigme/projet_enigme/obj/Debug/net7.0/projet_enigme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/Projects/projet_enigme/projet_enigme/obj/Debug/net7.0/projet_enigme.AssemblyInfoInputs.cache
+/Users/gabriel/Projects/projet_enigme/projet_enigme/obj/Debug/net7.0/projet_enigme.AssemblyInfo.cs
+/Users/gabriel/Projects/projet_enigme/projet_enigme/obj/Debug/net7.0/projet_enigme.csproj.CoreCompileInputs.cache
+/Users/gabriel/Projects/projet_enigme/projet_enigme/obj/Debug/net7.0/projet_enigme.dll
+/Users/gabriel/Projects/projet_enigme/projet_enigme/obj/Debug/net7.0/refint/projet_enigme.dll
+/Users/gabriel/Projects/projet_enigme/projet_enigme/obj/Debug/net7.0/projet_enigme.pdb
+/Users/gabriel/Projects/projet_enigme/projet_enigme/obj/Debug/net7.0/projet_enigme.genruntimeconfig.cache
+/Users/gabriel/Projects/projet_enigme/projet_enigme/obj/Debug/net7.0/ref/projet_enigme.dll
